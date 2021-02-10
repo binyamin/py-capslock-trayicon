@@ -1,2 +1,8 @@
-env/
 .vscode/
+dist/
+build/
+*.spec
+
+# Python
+env/
+__pycache__/
