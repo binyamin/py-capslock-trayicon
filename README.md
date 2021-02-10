@@ -2,7 +2,7 @@
 Shows the status of caps-lock in the taskbar (windows-only)
 
 ## Development
-```console
+```sh
 virtualenv env
 source env/Scripts/activate
 pip install -r requirements.txt
