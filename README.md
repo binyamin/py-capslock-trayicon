@@ -9,6 +9,12 @@ pip install -r requirements.txt
 python App.py
 ```
 
+## Building
+```sh
+pip install pyinstaller
+pyinstaller App.spec
+```
+
 ## Contributing
 This is mainly a personal project, so I don't expect any contributions. That said, I'm open to all suggestions and/or contributions.
 
