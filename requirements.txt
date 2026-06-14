@@ -1,2 +1,2 @@
-infi.systray==0.1.12
+infi.systray==0.1.12.1
 keyboard==0.13.5
